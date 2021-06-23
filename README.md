@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shandycasteel
 - 👀 I’m interested in data-driven development.
-- 🌱 I’m currently learning by going back to college.
+- 🌱 I’m currently learning by working full time as a developer and going back to college.
 - 💞️ In no particular order, some things I enjoy: 👨‍💻 ☕️  💾  🧪  🏙️  🤖  ✍️  🚀 🕹
 
 <!---
